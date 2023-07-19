@@ -3,3 +3,4 @@ Designed an image captioning model based on the encoder-decoder architecture usi
 Conducted necessary text preprocessing and tokenization of the input data, for feeding into the decoder model
 Completed pre-processing of image data, preparing it for feature extraction by feeding it into the encoder
 Assessed the model’s performance by using standard metrics like BLEU-1 and BLEU-2, the model achieved0.40 and 0.27 BLEU-1 and BLEU-2 scores respectively indicating it’s capability in capturing uni and bi-grams
+Dataset Link: https://www.kaggle.com/datasets/adityajn105/flickr8k
