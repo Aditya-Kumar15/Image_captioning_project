@@ -2,7 +2,7 @@
 ## Overview
 This project involves the development of an image captioning model based on the encoder-decoder architecture. The encoder utilizes a pre-trained VGG16 model to extract image features, while the decoder consists of a feedforward neural network with LSTM layers to generate captions for the images.
 ## Motivation
-This project is driven by the desire to learn more about transfer learning techniques. By using a pre-trained VGG16 model to help us understand images and an LSTM-based decoder to describe them in words, we are showing how powerful transfer learning can be. It makes complex tasks like adding captions to pictures much better. This project is just the beginning. We're paving the way for using pre-trained models to make computer vision and language processing tasks easier and more effective. It's like using the knowledge from one thing to make many other things work better. We're excited about what this can mean for understanding and working with both images and text in many different ways.
+This project is driven by the desire to learn more about transfer learning techniques. By using a pre-trained VGG16 model to help us understand images and an LSTM-based decoder to describe them in words, we are showing how powerful transfer learning can be. It makes complex tasks like adding captions to pictures much better. 
 # Data Preprocessing
 ## Dataset Used: Flickr 8k Dataset
 The project utilized the Flickr 8k dataset, a collection of images with corresponding textual descriptions. This dataset serves as a valuable resource for training and evaluating image captioning models. [Flickr8K Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
